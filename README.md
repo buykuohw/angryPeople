@@ -11,5 +11,5 @@ __输入__
 LRRLRL
 样例输出
 2
->Hint
+_Hint_
 >一种可能的变化情况是：LRRLRL -> LRLRL -> LRRL -> LRL -> LR
