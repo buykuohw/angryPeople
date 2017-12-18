@@ -21,7 +21,7 @@ int main()
 	}
 	if(j>=i)
 	{
-		cout<<i<<" "<<j<<"\n";
+		//cout<<i<<" "<<j<<"\n";
 		cout<<strlen(people)-(j-i);
 	}else{
 		cout<<strlen(people);
