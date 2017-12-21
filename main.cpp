@@ -22,6 +22,7 @@ int main()
 	if(j>=i)
 	{
 		//cout<<i<<" "<<j<<"\n";
+      //7
 		cout<<strlen(people)-(j-i);
 	}else{
 		cout<<strlen(people);
